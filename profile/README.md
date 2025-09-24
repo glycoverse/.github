@@ -8,7 +8,8 @@ It can help you with:
 - 🧬 Glycan structure parsing and drawing
 - 🔬 Advanced glycan motif or derived trait analysis
 
-To start with, please check out one of the case studies:
+To start with, please check out the [installation guide](https://glycoverse.github.io/glycoverse/),
+then one of the case studies:
 
 - [Case Study: Glycoproteomics](https://glycoverse.github.io/glycoverse/articles/case-study-1.html)
 - [Case Study: Glycomics](https://glycoverse.github.io/glycoverse/articles/case-study-2.html)
