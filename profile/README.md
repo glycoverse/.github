@@ -4,7 +4,7 @@ The ‘glycoverse’ is a set of packages that together form a comprehensive pip
 It can help you with:
 
 - 🧹 Data management, cleaning, and preprocessing ([glyexp](https://github.com/glycoverse/glyexp) | [glyread](https://github.com/glycoverse/glyread) | [glyclean](https://github.com/glycoverse/glyclean))
-- 📊 Statistical analysis and visualization ([glystats](https://github.com/glycoverse/glyglystats) | [glyvis](https://github.com/glycoverse/glyvis))
+- 📊 Statistical analysis and visualization ([glystats](https://github.com/glycoverse/glystats) | [glyvis](https://github.com/glycoverse/glyvis))
 - 🧬 Glycan structure parsing and drawing ([glyrepr](https://github.com/glycoverse/glyrepr) | [glyparse](https://github.com/glycoverse/glyparse) | glydraw)
 - 🔬 Advanced glycan motif or derived trait analysis ([glymotif](https://github.com/glycoverse/glymotif) | [glydet](https://github.com/glycoverse/glydet))
 - 🏭 Glycan biosynthesis inspection ([glyenzy](https://github.com/glycoverse/glyenzy))
