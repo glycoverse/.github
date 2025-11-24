@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/804e6fb5-d821-48b5-b334-8b6290f535a0" alt="glycoverse" />
+</p>
+
 ## Welcome to glycoverse!
 
 The [glycoverse](https://github.com/glycoverse/glycoverse) is a set of packages that together form a comprehensive pipeline for glycomics and glycoproteomics data analysis.
