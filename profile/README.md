@@ -20,4 +20,8 @@ then one of the case studies:
 - [Case Study: Glycoproteomics](https://glycoverse.github.io/glycoverse/articles/case-study-1.html)
 - [Case Study: Glycomics](https://glycoverse.github.io/glycoverse/articles/case-study-2.html)
 
+After that, feel free to check out the **Get Started with xxx** vignettes of the packages you're interested in.
+[glyexp](https://glycoverse.github.io/glyexp/articles/glyexp.html) and [glyrepr](https://glycoverse.github.io/glyrepr/articles/glyrepr.html)
+are good places to start with.
+
 If you encounter any problem, use ChatGPT to help you with [this prompt](https://github.com/glycoverse/chatgpt-prompt).
