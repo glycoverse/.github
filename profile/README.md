@@ -1,6 +1,6 @@
 ## Welcome to glycoverse!
 
-The ‘glycoverse’ is a set of packages that together form a comprehensive pipeline for glycomics and glycoproteomics data analysis.
+The [glycoverse](https://github.com/glycoverse/glycoverse) is a set of packages that together form a comprehensive pipeline for glycomics and glycoproteomics data analysis.
 It can help you with:
 
 - 🧹 Data management, cleaning, and preprocessing ([glyexp](https://github.com/glycoverse/glyexp) | [glyread](https://github.com/glycoverse/glyread) | [glyclean](https://github.com/glycoverse/glyclean))
