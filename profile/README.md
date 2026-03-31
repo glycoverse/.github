@@ -12,7 +12,7 @@ It can help you with:
 - 📊 Statistical analysis and visualization ([glystats](https://github.com/glycoverse/glystats) | [glyvis](https://github.com/glycoverse/glyvis))
 - 🧬 Glycan structure parsing and drawing ([glyrepr](https://github.com/glycoverse/glyrepr) | [glyparse](https://github.com/glycoverse/glyparse) | [glydraw](https://github.com/glycoverse/glydraw))
 - 🔬 Advanced glycan motif or derived trait analysis ([glymotif](https://github.com/glycoverse/glymotif) | [glydet](https://github.com/glycoverse/glydet))
-- 🏭 Glycan biosynthesis inspection ([glyenzy](https://github.com/glycoverse/glyenzy) | glyflux)
+- 🏭 Glycan biosynthesis and function inspection ([glyenzy](https://github.com/glycoverse/glyenzy) | [glyfun](https://github.com/glycoverse/glyfun))
 - 🗂️ Database and glycan annotation ([glydb](https://github.com/glycoverse/glydb) | [glyanno](https://github.com/glycoverse/glyanno))
 
 To start with, please check out the [installation guide](https://glycoverse.github.io/glycoverse/),
