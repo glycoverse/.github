@@ -25,4 +25,4 @@ After that, feel free to check out the **Get Started with xxx** vignettes of the
 [glyexp](https://glycoverse.github.io/glyexp/articles/glyexp.html) and [glyrepr](https://glycoverse.github.io/glyrepr/articles/glyrepr.html)
 are good places to start with.
 
-If you encounter any problem, use ChatGPT to help you with [GlycoGPT](https://github.com/glycoverse/GlycoGPT).
+If you are using coding agents like Claude Code, Codex, or Cursor, try [glycoverse.skill](https://github.com/glycoverse/glycoverse.skill).
