@@ -18,8 +18,8 @@ It can help you with:
 To start with, please check out the [installation guide](https://glycoverse.github.io/glycoverse/),
 then one of the case studies:
 
-- [Case Study: Glycoproteomics](https://glycoverse.github.io/glycoverse/articles/case-study-1.html)
-- [Case Study: Glycomics](https://glycoverse.github.io/glycoverse/articles/case-study-2.html)
+- [Case Study: Glycoproteomics](https://glycoverse.github.io/glycoverse-tutorial/tutorials/glycoproteomics.html)
+- [Case Study: Glycomics](https://glycoverse.github.io/glycoverse-tutorial/tutorials/glycomics.html)
 
 After that, feel free to check out the **Get Started with xxx** vignettes of the packages you're interested in.
 [glyexp](https://glycoverse.github.io/glyexp/articles/glyexp.html) and [glyrepr](https://glycoverse.github.io/glyrepr/articles/glyrepr.html)
