@@ -26,3 +26,5 @@ After that, feel free to check out the **Get Started with xxx** vignettes of the
 are good places to start with.
 
 If you are using coding agents like Claude Code, Codex, or Cursor, try [glycoverse.skill](https://github.com/glycoverse/glycoverse.skill).
+
+Also, please check out the [glycoverse-shiny](https://glycoverse.shinyapps.io/glycoverse-shiny/) app for some featured tasks.
