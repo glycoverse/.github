@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/804e6fb5-d821-48b5-b334-8b6290f535a0" alt="glycoverse" />
+  <img src="https://raw.githubusercontent.com/glycoverse/.github/main/profile/assets/glycoverse-banner.png" alt="glycoverse" />
 </p>
 
 ## Welcome to glycoverse!
